@@ -38,8 +38,8 @@ Python, Flask/Jinja templates, NumPy, Datamapplot, arXiv client, Requests, Beaut
 Create and activate a Python virtual environment, then:
 
 ```bash
-git clone https://github.com/anishkganesh/Insn_.git
-cd Insn_
+git clone https://github.com/anishkganesh/insn-map.git
+cd insn-map
 python -m venv .venv
 pip install -r requirements.txt
 ```
